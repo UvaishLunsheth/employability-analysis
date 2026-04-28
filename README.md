@@ -11,6 +11,7 @@ graduates in India?
 * Power BI
 
 ## Project Structure
+```
 employability-analysis/
 ├── data/
 │   ├── raw/          # Raw datasets
@@ -21,14 +22,24 @@ employability-analysis/
 ├── powerbi/          # Power BI dashboard files
 ├── README.md
 └── requirements.txt
+```
 
 ## Setup
-1. Create conda environment:
-   conda create -n employability_env python=3.10
-   conda activate employability_env
 
-2. Install dependencies:
+1. Create conda environment:
+```
+   conda create -n employability_env python=3.10
+```
+
+2. Activate environment:
+```
+   conda activate employability_env
+```
+
+3. Install dependencies:
+```
    pip install -r requirements.txt
+```
 
 ## Project Status
 In Progress
