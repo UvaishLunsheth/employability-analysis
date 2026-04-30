@@ -114,6 +114,73 @@ Skill-based factors such as internships, training, and project experience play a
 
 ---
 
+## Stream-wise Analysis
+
+### 1. Skills vs Academic Performance Across Streams
+
+* In most engineering streams, the gap in skill scores between placed and non-placed students is significantly higher than the gap in CGPA.
+* Example:
+
+  * Chemical Engineering: Skill Gap = 2.19 vs CGPA Gap = -0.18
+  * Mechanical Engineering: Skill Gap = 1.31 vs CGPA Gap = -0.32
+
+**Insight:**
+Skills have a stronger influence on employability than academic performance across the majority of streams.
+
+---
+
+### 2. Streams Where Academic Performance Matters Slightly More
+
+* Electrical Engineering and Civil Engineering show relatively higher CGPA impact compared to skill scores.
+
+**Insight:**
+Certain core branches still value academic performance, but the overall impact remains limited.
+
+---
+
+### 3. Placement Rate by Stream
+
+* Highest placement rates observed in:
+
+  * Electrical Engineering (64.86%)
+  * CS in AIML (63.64%)
+  * CS & Design (60.87%)
+* Lower placement rates observed in:
+
+  * Chemical Engineering (36.84%)
+  * Electrical & Electronics Engineering (33.33%)
+
+**Insight:**
+Technology-oriented streams show better employability outcomes compared to core engineering branches.
+
+---
+
+### 4. CGPA vs Placement Across Streams
+
+* CGPA values remain relatively consistent across streams (~8–8.5)
+* Placement rates vary significantly
+
+**Insight:**
+Academic performance alone does not explain differences in employability across streams.
+
+---
+
+### 5. Skill Score vs Placement Across Streams
+
+* Streams with higher average skill scores tend to have higher placement rates
+
+**Insight:**
+Practical exposure (internships, training, projects) is a key driver of employability.
+
+---
+
+## Stream-wise Conclusion
+
+The importance of skills versus academic performance varies across engineering streams. However, in most cases, skill-based factors play a more significant role in determining employability than academic scores. Core engineering branches show relatively lower placement rates, indicating potential structural challenges in job alignment.
+
+---
+
+
 ## Project Status
 
 SQL Analysis Completed
