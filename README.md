@@ -181,7 +181,14 @@ The importance of skills versus academic performance varies across engineering s
 ---
 
 
-## Project Status
+### Visual Analysis Insights
 
-SQL Analysis Completed
-Next Step: Python (Statistical Analysis & Visualization)
+![Distribution By Placement Status](images/distribution_analysis.png)
+
+* CGPA shows no clear separation between placed and non-placed students, confirming its weak predictive power.
+* Skill-based features such as projects and technical skills show stronger clustering among placed students.
+* Skill score demonstrates a positive trend with placement but is not sufficient alone.
+* Internship and communication do not show strong independent influence on placement outcomes.
+
+**Key Insight:**
+No single factor guarantees employability. However, practical exposure (projects, technical skills) plays a more significant role than academic performance.
